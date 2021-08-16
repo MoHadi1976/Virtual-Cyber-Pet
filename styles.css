@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}   
+#heading{
+display: flex;
+justify-content: center;
+
+}
+#img{
+    display: flex;
+justify-content: center;
+margin-top: 40px;
+}
+
+#list{
+    display: flex;
+justify-content: center;
+margin-top: 40px;
+}
+#buttons{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 15px;
+border-radius: 5px;
+}
+#treat{
+    margin: 10px;
+}
+#play{
+    margin: 10px;
+}
+#exercise{
+    margin: 10px;
+}
