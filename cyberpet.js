@@ -5,9 +5,9 @@
     $(function() {
   
         let pet_info = {
-          ".name" : "Jasper",
-          ".weight" : 6,
-          ".happiness": 0
+          "name" : "Jasper",
+          "weight" : 6,
+          "happiness": 0
         }
         
         checkAndUpdatePetInfoInHtml();
